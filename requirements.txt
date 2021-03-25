@@ -40,7 +40,7 @@ python-magic==0.4.15
 python-magic-bin==0.4.14
 python-utils==2.3.0
 pytz==2019.3
-PyYAML==5.2
+PyYAML==5.4
 requests==2.22.0
 ROPGadget==5.9
 shellescape==3.4.1
