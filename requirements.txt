@@ -49,5 +49,5 @@ sortedcontainers==2.1.0
 sqlparse==0.3.0
 sympy==1.5.1
 unicorn==1.0.1
-urllib3==1.25.7
+urllib3==1.26.5
 whitenoise==5.0.1
