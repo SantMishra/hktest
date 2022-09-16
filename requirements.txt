@@ -14,7 +14,7 @@ django-upload-validator==1.1.5
 gunicorn==20.0.4
 idna==2.8
 intervaltree==3.0.2
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 mpmath==1.1.0
 Naked==0.1.31
